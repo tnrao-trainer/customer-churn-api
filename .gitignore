@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project
+.env
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Model artifacts are committed so the container works out of the box
+# Uncomment the next lines if you prefer not to commit large model files
+# model/*.pkl
+# model/*.joblib

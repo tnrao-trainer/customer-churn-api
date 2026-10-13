@@ -1,0 +1,501 @@
+CustomerID,Age,Tenure,MonthlyCharges,TotalCharges,Contract,InternetService,SupportCalls,PaymentMethod,Churn
+10001,56,1,35.17,35.17,Month-to-Month,Fiber Optic,6,Electronic Check,Yes
+10002,69,58,51.17,3008.73,One Year,Fiber Optic,6,Mailed Check,No
+10003,46,1,44.85,44.85,Month-to-Month,DSL,0,Credit Card,No
+10004,32,34,94.39,3073.99,Month-to-Month,Fiber Optic,2,Credit Card,Yes
+10005,60,48,23.35,968.56,Month-to-Month,DSL,1,Credit Card,No
+10006,25,1,76.99,188.26,Month-to-Month,DSL,3,Mailed Check,Yes
+10007,38,16,96.25,1477.07,Month-to-Month,Fiber Optic,4,Electronic Check,Yes
+10008,56,61,107.68,6721.85,Month-to-Month,Fiber Optic,5,Credit Card,No
+10009,36,64,54.21,3415.86,One Year,Fiber Optic,7,Bank Transfer,No
+10010,40,63,102.13,6263.45,Month-to-Month,Fiber Optic,4,Bank Transfer,Yes
+10011,28,69,31.06,2031.49,One Year,Fiber Optic,2,Bank Transfer,Yes
+10012,28,22,104.65,2425.88,Two Year,Fiber Optic,5,Electronic Check,No
+10013,41,67,32.75,2178.66,One Year,No,3,Electronic Check,No
+10014,70,26,59.73,1498.15,Month-to-Month,No,0,Electronic Check,No
+10015,53,16,99.73,1611.68,Month-to-Month,Fiber Optic,4,Bank Transfer,Yes
+10016,57,51,34.99,1834.67,Month-to-Month,DSL,2,Electronic Check,No
+10017,41,57,42.93,2558.75,Month-to-Month,Fiber Optic,3,Electronic Check,No
+10018,20,29,92.23,2819.52,Two Year,Fiber Optic,6,Mailed Check,Yes
+10019,39,69,92,6312.02,Month-to-Month,DSL,6,Electronic Check,Yes
+10020,70,47,84.11,3820.57,Month-to-Month,Fiber Optic,3,Mailed Check,Yes
+10021,19,62,89.39,5500.83,One Year,DSL,3,Bank Transfer,No
+10022,41,69,74.27,5150.66,One Year,No,3,Bank Transfer,Yes
+10023,61,16,45.18,626.5,One Year,Fiber Optic,5,Electronic Check,Yes
+10024,47,48,54.57,2523.64,Month-to-Month,Fiber Optic,3,Electronic Check,Yes
+10025,55,39,38.16,1522.62,Month-to-Month,Fiber Optic,4,Bank Transfer,Yes
+10026,19,33,110.85,3653.18,Month-to-Month,No,2,Bank Transfer,No
+10027,38,23,78.34,1805.1,Month-to-Month,Fiber Optic,5,Bank Transfer,Yes
+10028,50,10,60.09,525.05,Month-to-Month,Fiber Optic,3,Electronic Check,Yes
+10029,29,69,66.2,4544.76,Month-to-Month,DSL,1,Bank Transfer,No
+10030,39,34,114.73,3808.4,Month-to-Month,Fiber Optic,7,Bank Transfer,Yes
+10031,61,52,35.34,1926.7,Month-to-Month,DSL,1,Bank Transfer,No
+10032,42,10,78.62,889.72,Month-to-Month,Fiber Optic,2,Bank Transfer,Yes
+10033,66,19,70.59,1156.59,One Year,Fiber Optic,6,Bank Transfer,No
+10034,44,58,81.15,4613.75,One Year,Fiber Optic,0,Credit Card,No
+10035,59,1,21.81,21.81,Two Year,DSL,0,Electronic Check,No
+10036,45,69,107.21,7332.49,Month-to-Month,DSL,7,Credit Card,Yes
+10037,33,4,113.21,444.5,Month-to-Month,Fiber Optic,6,Electronic Check,Yes
+10038,32,16,76.51,1079.2,Month-to-Month,DSL,5,Credit Card,Yes
+10039,64,24,89.67,2059.89,One Year,DSL,5,Credit Card,Yes
+10040,68,2,112.25,124.1,One Year,DSL,5,Electronic Check,Yes
+10041,61,32,90.72,2923.77,Month-to-Month,No,0,Electronic Check,Yes
+10042,69,24,35.25,852.93,Two Year,Fiber Optic,1,Electronic Check,No
+10043,20,12,77.63,859.39,Month-to-Month,Fiber Optic,0,Bank Transfer,Yes
+10044,54,50,80.67,4051.18,Month-to-Month,DSL,4,Mailed Check,No
+10045,68,35,62.41,2129.68,One Year,DSL,3,Electronic Check,No
+10046,24,33,93.64,3062.95,Two Year,Fiber Optic,5,Mailed Check,Yes
+10047,38,33,113.44,3910.87,One Year,Fiber Optic,1,Credit Card,Yes
+10048,26,61,112.56,7000.21,Two Year,DSL,2,Electronic Check,Yes
+10049,56,51,65.08,3189.12,Month-to-Month,DSL,7,Electronic Check,Yes
+10050,35,43,31.32,1429.73,Two Year,DSL,2,Credit Card,No
+10051,21,12,118.48,1502.9,Month-to-Month,Fiber Optic,3,Bank Transfer,Yes
+10052,42,67,103.89,6845.8,Two Year,Fiber Optic,1,Bank Transfer,No
+10053,31,65,32.47,2192.43,Month-to-Month,DSL,0,Electronic Check,Yes
+10054,67,33,112.08,3852.43,Two Year,DSL,0,Electronic Check,No
+10055,26,40,106.99,4167.35,Month-to-Month,DSL,4,Credit Card,Yes
+10056,43,43,71.88,2999.09,One Year,No,4,Electronic Check,Yes
+10057,70,44,79.13,3583.49,Month-to-Month,DSL,0,Electronic Check,No
+10058,19,29,59.9,1764.25,One Year,Fiber Optic,2,Electronic Check,Yes
+10059,37,13,25.48,386.39,Month-to-Month,Fiber Optic,7,Bank Transfer,No
+10060,45,12,53.52,676.3,Month-to-Month,Fiber Optic,5,Mailed Check,Yes
+10061,64,46,100.29,4652.41,Month-to-Month,DSL,2,Credit Card,Yes
+10062,24,2,20.46,20.46,Month-to-Month,DSL,7,Mailed Check,Yes
+10063,61,35,53.35,1971.98,Two Year,Fiber Optic,4,Electronic Check,No
+10064,25,8,59.82,595.52,Month-to-Month,Fiber Optic,3,Credit Card,Yes
+10065,64,26,73.74,1894.3,Two Year,Fiber Optic,7,Electronic Check,No
+10066,52,34,111.99,3803.31,Month-to-Month,Fiber Optic,0,Credit Card,Yes
+10067,31,7,54.63,229.3,Month-to-Month,DSL,4,Mailed Check,No
+10068,34,68,54.7,3771.03,One Year,No,4,Credit Card,No
+10069,53,58,93.75,5494.71,One Year,Fiber Optic,5,Electronic Check,No
+10070,67,29,65.22,1885.16,Month-to-Month,DSL,0,Credit Card,No
+10071,57,36,42.46,1641,One Year,No,5,Electronic Check,No
+10072,21,21,65.24,1336.63,One Year,Fiber Optic,0,Mailed Check,No
+10073,19,36,34.09,1283.7,Month-to-Month,Fiber Optic,5,Credit Card,Yes
+10074,23,10,37.64,274.43,Two Year,Fiber Optic,7,Credit Card,Yes
+10075,59,24,69.84,1673.8,Two Year,Fiber Optic,2,Credit Card,No
+10076,21,64,61.89,3943.52,One Year,Fiber Optic,3,Credit Card,No
+10077,46,49,111.48,5485.05,Month-to-Month,DSL,3,Electronic Check,Yes
+10078,35,36,56.24,1987.69,One Year,DSL,0,Bank Transfer,No
+10079,43,24,78.06,1860.29,Month-to-Month,No,1,Electronic Check,Yes
+10080,61,23,83.23,1996.89,Month-to-Month,DSL,6,Bank Transfer,Yes
+10081,51,62,21.31,1277.54,Month-to-Month,Fiber Optic,4,Bank Transfer,No
+10082,27,37,86.35,3034.29,Month-to-Month,Fiber Optic,4,Bank Transfer,Yes
+10083,53,12,37.8,628.56,Two Year,Fiber Optic,0,Credit Card,No
+10084,31,55,116.11,6524.2,One Year,Fiber Optic,7,Credit Card,Yes
+10085,48,13,34.87,324.08,One Year,No,5,Electronic Check,No
+10086,65,23,61.46,1482.55,Month-to-Month,DSL,1,Bank Transfer,No
+10087,32,30,28.53,805.6,Month-to-Month,DSL,2,Electronic Check,No
+10088,25,17,119.69,2061.08,Month-to-Month,DSL,5,Credit Card,Yes
+10089,31,62,70.22,4383.06,Two Year,No,5,Electronic Check,No
+10090,40,13,79.54,1010.58,Month-to-Month,Fiber Optic,0,Electronic Check,No
+10091,57,59,26.71,1497.51,Two Year,DSL,0,Credit Card,No
+10092,38,19,95,1735.95,One Year,Fiber Optic,7,Electronic Check,Yes
+10093,33,49,40.99,1916.89,Month-to-Month,No,4,Bank Transfer,No
+10094,62,12,109.81,1234.54,One Year,Fiber Optic,0,Electronic Check,No
+10095,35,61,40.51,2464.39,Month-to-Month,No,0,Electronic Check,Yes
+10096,64,19,39.07,670.75,Two Year,DSL,0,Credit Card,No
+10097,70,9,23.65,281.06,Two Year,Fiber Optic,7,Electronic Check,No
+10098,41,71,67.21,4920.63,Month-to-Month,Fiber Optic,4,Electronic Check,No
+10099,43,28,76.48,2083.43,Month-to-Month,Fiber Optic,2,Bank Transfer,No
+10100,42,52,26.57,1405.58,One Year,Fiber Optic,2,Electronic Check,No
+10101,62,16,97.55,1610.77,Two Year,Fiber Optic,6,Bank Transfer,Yes
+10102,58,69,65.33,4554.97,Month-to-Month,Fiber Optic,6,Electronic Check,Yes
+10103,46,12,72.44,876.88,One Year,DSL,0,Electronic Check,No
+10104,32,25,64.08,1676.27,One Year,Fiber Optic,6,Bank Transfer,Yes
+10105,62,52,60.08,3172.38,One Year,No,4,Electronic Check,No
+10106,18,53,75.96,3902.11,Month-to-Month,No,7,Electronic Check,No
+10107,42,23,35.52,903.88,One Year,DSL,2,Electronic Check,No
+10108,24,16,38.19,699.77,Two Year,DSL,5,Electronic Check,Yes
+10109,26,57,106.18,5975.93,Month-to-Month,DSL,2,Bank Transfer,Yes
+10110,41,39,114.61,4473.58,Month-to-Month,Fiber Optic,2,Electronic Check,No
+10111,18,53,57.33,3106.82,Two Year,Fiber Optic,4,Bank Transfer,Yes
+10112,61,42,47.07,1956.01,Month-to-Month,DSL,6,Mailed Check,Yes
+10113,25,58,84.4,5002.5,Two Year,Fiber Optic,5,Credit Card,Yes
+10114,41,39,60.87,2610.32,Month-to-Month,Fiber Optic,4,Mailed Check,No
+10115,28,14,22.54,236.96,Month-to-Month,Fiber Optic,0,Electronic Check,No
+10116,68,5,35.62,40,Two Year,Fiber Optic,7,Mailed Check,No
+10117,34,35,91.6,3236.38,Month-to-Month,Fiber Optic,3,Electronic Check,Yes
+10118,25,18,85.89,1618.18,Month-to-Month,Fiber Optic,2,Bank Transfer,Yes
+10119,52,9,22.71,181.3,Month-to-Month,DSL,3,Credit Card,No
+10120,52,58,42.2,2592.93,One Year,Fiber Optic,7,Electronic Check,No
+10121,50,17,43.11,599.01,Month-to-Month,Fiber Optic,7,Credit Card,Yes
+10122,22,7,87.19,679.62,Month-to-Month,No,4,Bank Transfer,Yes
+10123,59,46,21.97,950.03,Two Year,Fiber Optic,4,Electronic Check,No
+10124,56,13,30.41,567.27,Month-to-Month,Fiber Optic,4,Electronic Check,No
+10125,58,40,99.99,4198.85,One Year,DSL,3,Bank Transfer,No
+10126,45,42,37.85,1513.03,Month-to-Month,Fiber Optic,4,Bank Transfer,No
+10127,24,9,85.27,712.47,One Year,DSL,7,Mailed Check,Yes
+10128,26,50,43.82,2276.96,Month-to-Month,DSL,0,Bank Transfer,Yes
+10129,25,27,29.94,769.67,Two Year,Fiber Optic,4,Mailed Check,Yes
+10130,29,66,44.32,2920.58,Month-to-Month,No,1,Bank Transfer,No
+10131,51,5,92.23,463.69,Month-to-Month,DSL,6,Electronic Check,Yes
+10132,50,29,105.57,2869.56,Month-to-Month,Fiber Optic,3,Electronic Check,Yes
+10133,65,37,103.02,3810.36,Month-to-Month,Fiber Optic,1,Bank Transfer,Yes
+10134,40,38,59.72,2200.39,Month-to-Month,DSL,4,Credit Card,No
+10135,41,8,86.81,645.17,Month-to-Month,Fiber Optic,7,Electronic Check,Yes
+10136,54,65,40.5,2776.86,Two Year,Fiber Optic,0,Electronic Check,No
+10137,52,17,49.31,712.62,Month-to-Month,Fiber Optic,2,Mailed Check,Yes
+10138,61,71,109.63,7865.05,Month-to-Month,DSL,5,Credit Card,Yes
+10139,57,45,21.3,930.6,One Year,Fiber Optic,6,Credit Card,No
+10140,39,4,28.55,86.22,One Year,Fiber Optic,5,Credit Card,Yes
+10141,44,36,40.79,1547.48,Month-to-Month,Fiber Optic,4,Electronic Check,Yes
+10142,52,70,22.65,1619.51,Month-to-Month,DSL,6,Electronic Check,No
+10143,18,31,38.14,1239.4,Month-to-Month,Fiber Optic,6,Electronic Check,Yes
+10144,52,19,78.3,1584.52,One Year,DSL,0,Electronic Check,No
+10145,54,61,62.14,3757.41,One Year,Fiber Optic,6,Bank Transfer,Yes
+10146,64,54,109.27,5839.36,Month-to-Month,DSL,3,Credit Card,Yes
+10147,31,39,101.74,3859.34,Two Year,No,1,Bank Transfer,No
+10148,20,19,54.18,946.88,Two Year,Fiber Optic,1,Mailed Check,No
+10149,18,39,45.94,2041.66,One Year,DSL,1,Electronic Check,No
+10150,22,67,57.97,4008.46,Two Year,DSL,3,Bank Transfer,No
+10151,43,45,79.03,3421.24,Month-to-Month,DSL,5,Credit Card,Yes
+10152,31,13,46.81,476.28,Month-to-Month,No,0,Mailed Check,No
+10153,56,58,82.41,4827.97,Month-to-Month,No,6,Electronic Check,Yes
+10154,44,20,60.94,1273.53,Month-to-Month,Fiber Optic,3,Bank Transfer,Yes
+10155,26,72,75.2,5469.29,Month-to-Month,Fiber Optic,1,Credit Card,No
+10156,32,61,63.61,3854.71,Two Year,Fiber Optic,4,Electronic Check,No
+10157,32,39,49.45,1916,Month-to-Month,No,2,Electronic Check,No
+10158,43,1,114.85,147.64,Month-to-Month,Fiber Optic,6,Bank Transfer,Yes
+10159,59,3,96.36,297.67,Month-to-Month,Fiber Optic,3,Bank Transfer,Yes
+10160,30,62,34.01,1886.69,Two Year,Fiber Optic,7,Electronic Check,No
+10161,68,63,106.85,6708.57,Month-to-Month,Fiber Optic,3,Credit Card,No
+10162,49,25,68.74,1633.36,Month-to-Month,DSL,0,Electronic Check,No
+10163,56,56,109.46,6147.28,Month-to-Month,Fiber Optic,0,Bank Transfer,No
+10164,66,33,99.99,3549.67,Month-to-Month,Fiber Optic,3,Electronic Check,No
+10165,69,38,62.52,2412.51,Two Year,Fiber Optic,1,Mailed Check,No
+10166,49,6,22.25,102.15,Two Year,DSL,2,Electronic Check,No
+10167,21,58,46.87,2810.64,Month-to-Month,Fiber Optic,6,Electronic Check,Yes
+10168,47,44,74.16,3311.31,Two Year,Fiber Optic,0,Electronic Check,No
+10169,54,45,83.35,3792.76,One Year,Fiber Optic,6,Electronic Check,No
+10170,40,32,45.79,1525.97,Two Year,DSL,1,Credit Card,No
+10171,56,45,33.94,1732.95,Month-to-Month,Fiber Optic,6,Electronic Check,No
+10172,62,61,103.49,6199.8,Month-to-Month,Fiber Optic,4,Bank Transfer,Yes
+10173,32,47,118.44,5614.04,Month-to-Month,Fiber Optic,0,Electronic Check,Yes
+10174,60,21,72.57,1431.33,One Year,Fiber Optic,1,Electronic Check,No
+10175,46,36,37.17,1393.67,Month-to-Month,Fiber Optic,1,Electronic Check,No
+10176,53,19,47.23,805.5,Month-to-Month,Fiber Optic,2,Electronic Check,Yes
+10177,30,20,21.84,395.06,Month-to-Month,DSL,2,Electronic Check,No
+10178,49,57,111.43,6322,One Year,Fiber Optic,4,Credit Card,No
+10179,24,18,31.78,669.62,Month-to-Month,Fiber Optic,1,Credit Card,Yes
+10180,68,47,77.65,3741.4,One Year,DSL,5,Credit Card,No
+10181,39,49,47.41,2198.52,Two Year,DSL,1,Credit Card,No
+10182,45,14,75.42,1061.37,Month-to-Month,DSL,2,Credit Card,Yes
+10183,19,15,85.14,1206.14,One Year,Fiber Optic,5,Electronic Check,Yes
+10184,59,31,102.97,3066.22,Month-to-Month,Fiber Optic,0,Credit Card,Yes
+10185,62,1,40.64,40.64,Two Year,Fiber Optic,0,Mailed Check,No
+10186,70,54,21.1,1108.55,Month-to-Month,Fiber Optic,6,Credit Card,No
+10187,23,3,33.69,343.74,One Year,Fiber Optic,3,Bank Transfer,No
+10188,45,16,110,1803.3,Two Year,DSL,2,Electronic Check,No
+10189,45,57,107.39,5983.47,Two Year,DSL,3,Bank Transfer,Yes
+10190,61,12,79.74,900.4,One Year,Fiber Optic,5,Bank Transfer,No
+10191,61,16,80.05,1382.94,Month-to-Month,DSL,2,Credit Card,Yes
+10192,37,72,86.5,6436.84,One Year,DSL,4,Mailed Check,No
+10193,47,24,37.54,742.36,Two Year,Fiber Optic,1,Electronic Check,Yes
+10194,28,28,111.44,2932.33,One Year,Fiber Optic,4,Electronic Check,Yes
+10195,45,8,61.88,682.14,Month-to-Month,No,5,Bank Transfer,Yes
+10196,42,36,58.31,2138.12,Two Year,No,2,Bank Transfer,No
+10197,56,8,71.89,488.29,One Year,Fiber Optic,7,Electronic Check,Yes
+10198,50,58,24.7,1486.06,One Year,Fiber Optic,5,Electronic Check,No
+10199,18,60,36.63,1947.8,Month-to-Month,Fiber Optic,7,Electronic Check,Yes
+10200,44,50,93.8,4690.34,One Year,Fiber Optic,1,Electronic Check,No
+10201,69,28,28.28,824.62,Month-to-Month,DSL,0,Bank Transfer,No
+10202,30,41,80.32,3385.55,One Year,Fiber Optic,0,Credit Card,No
+10203,58,64,44.53,2748.53,Month-to-Month,Fiber Optic,5,Electronic Check,No
+10204,20,27,58.93,1599.68,One Year,Fiber Optic,3,Electronic Check,No
+10205,56,63,48.87,2986.27,Two Year,Fiber Optic,2,Electronic Check,No
+10206,23,17,55.57,970.23,Month-to-Month,Fiber Optic,2,Electronic Check,Yes
+10207,25,33,91.9,2943.17,Two Year,DSL,0,Credit Card,No
+10208,44,29,49.71,1400.78,Month-to-Month,Fiber Optic,6,Mailed Check,Yes
+10209,26,13,76.64,896.74,Two Year,DSL,4,Bank Transfer,Yes
+10210,54,46,67.61,3175.17,One Year,DSL,6,Electronic Check,Yes
+10211,50,35,86.37,3108.8,One Year,DSL,1,Mailed Check,No
+10212,68,6,113.68,658.62,One Year,Fiber Optic,4,Bank Transfer,Yes
+10213,59,69,93.26,6438.76,Two Year,DSL,4,Bank Transfer,No
+10214,61,47,41.49,1805.17,Month-to-Month,Fiber Optic,5,Credit Card,Yes
+10215,41,25,23.12,548.03,Month-to-Month,DSL,0,Electronic Check,No
+10216,32,66,46.23,3046.16,One Year,No,6,Electronic Check,No
+10217,49,10,79.51,1045.1,Two Year,DSL,6,Electronic Check,No
+10218,49,56,25.14,1296.64,One Year,Fiber Optic,0,Electronic Check,No
+10219,41,30,69.64,2235.62,One Year,No,6,Electronic Check,Yes
+10220,58,5,79.68,498.09,Month-to-Month,Fiber Optic,7,Credit Card,Yes
+10221,69,33,53.42,1790.92,Two Year,DSL,0,Bank Transfer,No
+10222,66,65,97.09,6486.71,Month-to-Month,Fiber Optic,5,Credit Card,Yes
+10223,66,18,30.66,589.09,Month-to-Month,Fiber Optic,3,Electronic Check,No
+10224,69,49,27.51,1386.91,Month-to-Month,Fiber Optic,4,Mailed Check,No
+10225,29,11,92.82,1015.71,Month-to-Month,DSL,5,Mailed Check,Yes
+10226,56,26,69.55,1930.66,Month-to-Month,DSL,2,Bank Transfer,Yes
+10227,19,63,88.84,5706.57,Month-to-Month,Fiber Optic,1,Mailed Check,No
+10228,20,59,63.48,3682.75,One Year,Fiber Optic,3,Credit Card,No
+10229,66,27,44.64,1073.36,Month-to-Month,Fiber Optic,2,Mailed Check,Yes
+10230,54,49,101.91,4973.29,Month-to-Month,Fiber Optic,4,Electronic Check,Yes
+10231,66,33,99.94,3218.02,Month-to-Month,Fiber Optic,6,Electronic Check,No
+10232,34,1,89.47,89.47,Month-to-Month,DSL,0,Electronic Check,Yes
+10233,66,21,47.21,1115.15,Month-to-Month,Fiber Optic,4,Electronic Check,No
+10234,19,55,79.02,4300.37,Month-to-Month,DSL,5,Electronic Check,Yes
+10235,19,6,56.1,332.32,One Year,Fiber Optic,1,Credit Card,No
+10236,45,69,29.16,2017.84,One Year,Fiber Optic,5,Bank Transfer,No
+10237,40,5,111.73,643.49,One Year,No,3,Credit Card,Yes
+10238,54,3,33.68,33.68,Month-to-Month,DSL,3,Electronic Check,No
+10239,49,53,115.02,6035.39,Month-to-Month,DSL,1,Bank Transfer,Yes
+10240,50,23,64.6,1506.93,Two Year,DSL,7,Credit Card,Yes
+10241,18,53,38.51,2161.04,Month-to-Month,DSL,2,Electronic Check,No
+10242,36,37,74.19,2695.84,Month-to-Month,DSL,2,Bank Transfer,No
+10243,19,17,107.29,1636.27,Month-to-Month,No,3,Electronic Check,Yes
+10244,70,1,93.22,155.19,Month-to-Month,DSL,3,Electronic Check,Yes
+10245,61,51,100.66,5070.12,Month-to-Month,DSL,6,Mailed Check,Yes
+10246,43,45,85.88,3745.63,Month-to-Month,Fiber Optic,0,Electronic Check,No
+10247,49,4,89.23,294.49,One Year,Fiber Optic,6,Credit Card,Yes
+10248,23,62,104.92,6486.59,Month-to-Month,Fiber Optic,6,Mailed Check,Yes
+10249,49,65,44.97,2862.58,One Year,DSL,7,Bank Transfer,No
+10250,21,32,68.94,1985.52,One Year,Fiber Optic,2,Electronic Check,No
+10251,28,34,42.12,1521.79,Two Year,DSL,7,Electronic Check,No
+10252,34,72,118.77,8678.93,One Year,DSL,7,Electronic Check,Yes
+10253,55,39,114.41,4527.14,Two Year,No,1,Credit Card,No
+10254,41,26,23.94,508.67,Month-to-Month,DSL,2,Credit Card,Yes
+10255,22,34,90.56,3058.89,Month-to-Month,Fiber Optic,0,Electronic Check,Yes
+10256,69,54,112.52,6075.43,Month-to-Month,Fiber Optic,5,Mailed Check,Yes
+10257,51,3,38.06,174.06,One Year,DSL,3,Credit Card,No
+10258,23,50,76.79,3906.33,Two Year,No,3,Electronic Check,No
+10259,39,12,111.55,1265.18,Month-to-Month,DSL,0,Credit Card,Yes
+10260,28,65,23.39,1528.55,Two Year,Fiber Optic,7,Bank Transfer,No
+10261,65,54,89.74,4891.69,Month-to-Month,No,6,Electronic Check,Yes
+10262,33,5,49.73,394.23,Two Year,Fiber Optic,1,Electronic Check,No
+10263,50,57,112.44,6479.53,Month-to-Month,No,7,Bank Transfer,Yes
+10264,26,17,117.11,2069.78,Month-to-Month,DSL,3,Credit Card,Yes
+10265,23,47,114.43,5386.59,Month-to-Month,Fiber Optic,4,Credit Card,Yes
+10266,33,23,67.42,1691.71,Month-to-Month,DSL,6,Credit Card,Yes
+10267,46,14,106.2,1527.78,Month-to-Month,Fiber Optic,3,Electronic Check,No
+10268,20,66,104.45,6807.59,Month-to-Month,No,4,Electronic Check,Yes
+10269,37,51,51.91,2787.75,Two Year,DSL,7,Credit Card,No
+10270,53,38,102.89,3979.61,Month-to-Month,Fiber Optic,0,Electronic Check,No
+10271,36,64,23.7,1472.5,Month-to-Month,DSL,0,Electronic Check,No
+10272,43,38,79.63,2977.99,One Year,Fiber Optic,6,Bank Transfer,No
+10273,20,50,43,2179.66,One Year,Fiber Optic,3,Mailed Check,No
+10274,36,30,32.06,1008.12,Month-to-Month,No,2,Bank Transfer,No
+10275,37,51,27.7,1432.43,Month-to-Month,Fiber Optic,4,Mailed Check,No
+10276,49,63,89.63,5677.82,Month-to-Month,DSL,1,Electronic Check,No
+10277,24,52,53.99,2977.48,Month-to-Month,DSL,3,Mailed Check,No
+10278,69,38,92.48,3621.39,One Year,DSL,1,Electronic Check,No
+10279,58,30,26.54,815.26,Month-to-Month,DSL,3,Mailed Check,No
+10280,50,51,51.53,2722.16,Month-to-Month,DSL,2,Mailed Check,No
+10281,57,5,73.95,266.5,One Year,No,2,Bank Transfer,Yes
+10282,56,29,99.07,2912.82,Month-to-Month,Fiber Optic,6,Mailed Check,Yes
+10283,35,4,51.88,388.45,One Year,Fiber Optic,6,Credit Card,No
+10284,57,10,82.59,804.1,Month-to-Month,DSL,2,Electronic Check,No
+10285,18,56,108.6,5996.84,Two Year,No,5,Credit Card,Yes
+10286,28,17,81.59,1321.82,Month-to-Month,Fiber Optic,2,Credit Card,Yes
+10287,45,17,43.3,627.14,Two Year,DSL,0,Electronic Check,No
+10288,42,69,22.44,1469.88,One Year,Fiber Optic,0,Credit Card,No
+10289,67,34,107.01,3601.29,Month-to-Month,Fiber Optic,5,Mailed Check,Yes
+10290,40,6,22.13,22.13,One Year,DSL,7,Electronic Check,No
+10291,48,53,107.47,5697.47,Two Year,Fiber Optic,4,Bank Transfer,No
+10292,47,66,72.89,4900.97,One Year,Fiber Optic,7,Mailed Check,No
+10293,59,43,113.91,4807.35,Two Year,DSL,1,Mailed Check,No
+10294,52,23,99.88,2449.17,Two Year,No,7,Mailed Check,Yes
+10295,24,55,119.79,6639.53,Month-to-Month,Fiber Optic,3,Credit Card,Yes
+10296,33,16,55.07,984.18,Month-to-Month,Fiber Optic,7,Mailed Check,Yes
+10297,43,8,96.72,707.98,One Year,Fiber Optic,3,Bank Transfer,Yes
+10298,65,4,60.19,326.21,Month-to-Month,Fiber Optic,5,Electronic Check,No
+10299,69,4,67.99,162.77,Two Year,Fiber Optic,0,Credit Card,No
+10300,66,56,82.75,4723.02,Two Year,Fiber Optic,6,Bank Transfer,No
+10301,19,25,107.37,2701.43,Month-to-Month,DSL,3,Electronic Check,Yes
+10302,18,67,118.41,7988.8,Month-to-Month,Fiber Optic,0,Credit Card,Yes
+10303,65,67,96.83,6370.05,One Year,Fiber Optic,4,Bank Transfer,No
+10304,29,27,61.78,1578.55,Month-to-Month,Fiber Optic,1,Electronic Check,No
+10305,22,32,62.14,2048.2,Two Year,DSL,4,Credit Card,No
+10306,54,50,93.76,4593.17,Month-to-Month,Fiber Optic,5,Bank Transfer,Yes
+10307,49,61,43.88,2723,One Year,DSL,7,Credit Card,No
+10308,26,51,31.05,1446.84,Month-to-Month,DSL,7,Electronic Check,Yes
+10309,58,19,55.46,1138.56,One Year,DSL,2,Electronic Check,No
+10310,52,21,48.72,899.87,Month-to-Month,DSL,2,Electronic Check,Yes
+10311,36,5,49.63,303.38,One Year,Fiber Optic,2,Mailed Check,No
+10312,65,42,43.36,1883.68,Month-to-Month,Fiber Optic,4,Electronic Check,No
+10313,33,61,24.21,1407.13,One Year,DSL,3,Credit Card,No
+10314,20,22,21.79,537.58,Two Year,No,1,Electronic Check,No
+10315,37,21,118.77,2520.21,Month-to-Month,No,2,Electronic Check,No
+10316,41,70,62.78,4340.72,Month-to-Month,No,5,Bank Transfer,Yes
+10317,50,1,58.43,58.43,Month-to-Month,DSL,5,Bank Transfer,Yes
+10318,41,5,87.96,243.54,One Year,Fiber Optic,2,Electronic Check,Yes
+10319,69,12,41.83,536.93,One Year,No,7,Credit Card,Yes
+10320,28,46,115,5133.52,Month-to-Month,Fiber Optic,2,Electronic Check,Yes
+10321,66,34,98.63,3362.95,Month-to-Month,DSL,1,Credit Card,Yes
+10322,25,49,28.94,1391.72,Month-to-Month,DSL,2,Bank Transfer,No
+10323,53,45,61.76,2847.11,One Year,Fiber Optic,1,Electronic Check,No
+10324,55,27,107.91,2883.37,Month-to-Month,No,5,Electronic Check,Yes
+10325,57,26,114.47,2943.28,Two Year,Fiber Optic,2,Electronic Check,No
+10326,37,47,66.74,3209.97,Month-to-Month,Fiber Optic,4,Mailed Check,No
+10327,52,56,81.34,4588.55,One Year,DSL,6,Mailed Check,Yes
+10328,65,63,36.7,2343.72,Month-to-Month,Fiber Optic,4,Electronic Check,No
+10329,42,48,119.12,5764.69,Month-to-Month,Fiber Optic,5,Bank Transfer,Yes
+10330,52,61,43.17,2479.81,One Year,Fiber Optic,1,Electronic Check,Yes
+10331,42,26,114.27,3046.7,One Year,Fiber Optic,4,Electronic Check,Yes
+10332,46,36,84.96,3119.81,Two Year,No,1,Bank Transfer,No
+10333,35,1,80.77,80.77,Month-to-Month,DSL,4,Mailed Check,Yes
+10334,63,8,71.27,545.75,Month-to-Month,Fiber Optic,4,Mailed Check,Yes
+10335,35,52,43.07,2235.71,One Year,DSL,1,Credit Card,No
+10336,19,47,37.65,1756.1,One Year,Fiber Optic,3,Electronic Check,No
+10337,52,56,42.05,2388.19,Month-to-Month,Fiber Optic,4,Bank Transfer,No
+10338,33,14,38.64,684.1,Month-to-Month,Fiber Optic,2,Electronic Check,Yes
+10339,58,28,97.96,2851.06,Month-to-Month,Fiber Optic,6,Credit Card,Yes
+10340,53,2,55.01,55.01,Two Year,Fiber Optic,5,Electronic Check,No
+10341,50,26,25.78,732.49,Month-to-Month,No,3,Bank Transfer,No
+10342,21,14,116.91,1769.63,Month-to-Month,Fiber Optic,1,Electronic Check,Yes
+10343,50,59,108.38,6433.1,Month-to-Month,DSL,3,Electronic Check,Yes
+10344,31,56,112.78,6424.78,Month-to-Month,Fiber Optic,0,Mailed Check,Yes
+10345,38,7,119.49,1037.66,Month-to-Month,Fiber Optic,0,Electronic Check,Yes
+10346,65,3,37.39,214.54,Month-to-Month,DSL,4,Credit Card,Yes
+10347,37,23,59.62,1396.19,Month-to-Month,No,4,Electronic Check,Yes
+10348,25,18,95.82,1829.27,Two Year,No,2,Electronic Check,No
+10349,24,38,89.6,3419.29,Month-to-Month,DSL,6,Electronic Check,Yes
+10350,20,15,35.39,533.24,Month-to-Month,No,5,Electronic Check,No
+10351,34,64,101.58,6465.98,Two Year,DSL,3,Mailed Check,No
+10352,50,28,42.44,1344.66,One Year,DSL,0,Electronic Check,Yes
+10353,65,39,42.38,1570.98,Month-to-Month,DSL,4,Mailed Check,No
+10354,29,57,73.7,4354.14,Month-to-Month,No,7,Credit Card,Yes
+10355,68,17,79.29,1397.92,Month-to-Month,Fiber Optic,7,Credit Card,No
+10356,39,44,78.01,3292.51,One Year,DSL,5,Credit Card,No
+10357,39,25,29.15,765.51,Two Year,Fiber Optic,3,Credit Card,No
+10358,63,17,107.75,1621.75,One Year,Fiber Optic,4,Bank Transfer,Yes
+10359,47,13,46.56,667.83,One Year,DSL,4,Electronic Check,No
+10360,55,25,32.95,912.27,One Year,No,0,Electronic Check,No
+10361,55,68,108.87,7343.92,Month-to-Month,Fiber Optic,0,Mailed Check,Yes
+10362,62,10,115.57,1168.05,Month-to-Month,Fiber Optic,4,Mailed Check,Yes
+10363,68,67,106.21,7311.49,One Year,No,1,Mailed Check,Yes
+10364,25,18,100.95,1766.53,Two Year,Fiber Optic,4,Credit Card,Yes
+10365,44,34,85.52,2801.79,Month-to-Month,No,5,Bank Transfer,No
+10366,44,8,75.09,748.89,One Year,Fiber Optic,4,Credit Card,No
+10367,51,40,28.7,1344.26,Month-to-Month,Fiber Optic,2,Credit Card,No
+10368,38,42,60.85,2556.07,Month-to-Month,DSL,6,Electronic Check,Yes
+10369,47,41,57.27,2449.22,Month-to-Month,No,2,Credit Card,No
+10370,50,6,45.98,410.03,Month-to-Month,Fiber Optic,2,Electronic Check,No
+10371,45,52,92.34,4727.43,One Year,DSL,1,Electronic Check,Yes
+10372,64,26,69.59,1760.81,Month-to-Month,DSL,1,Mailed Check,No
+10373,50,64,28.1,1921.49,One Year,Fiber Optic,7,Electronic Check,No
+10374,22,59,42.02,2647.68,One Year,Fiber Optic,4,Electronic Check,No
+10375,65,56,88.33,5002.77,Two Year,Fiber Optic,2,Electronic Check,Yes
+10376,36,59,27.61,1541.01,Month-to-Month,No,1,Mailed Check,No
+10377,21,70,105.12,7557.11,Month-to-Month,DSL,0,Credit Card,No
+10378,52,33,69.51,2240.73,Month-to-Month,Fiber Optic,4,Credit Card,Yes
+10379,66,53,68.06,3573.67,Two Year,DSL,5,Bank Transfer,No
+10380,34,22,79.24,1777.51,Two Year,No,6,Bank Transfer,Yes
+10381,61,21,102.47,2307.29,Month-to-Month,Fiber Optic,3,Electronic Check,Yes
+10382,45,70,54.78,3920,Two Year,Fiber Optic,4,Bank Transfer,No
+10383,47,70,87.8,6187.49,Month-to-Month,Fiber Optic,3,Bank Transfer,No
+10384,46,4,76.57,352.61,One Year,DSL,2,Bank Transfer,Yes
+10385,63,62,46.7,2899.75,Month-to-Month,Fiber Optic,6,Electronic Check,No
+10386,70,62,107.86,6743.13,One Year,Fiber Optic,3,Mailed Check,No
+10387,23,24,99.74,2143.76,Month-to-Month,Fiber Optic,2,Credit Card,Yes
+10388,52,55,85.85,4692.09,Two Year,Fiber Optic,0,Electronic Check,No
+10389,58,9,105.06,969.67,One Year,Fiber Optic,3,Credit Card,Yes
+10390,54,3,106.73,205.09,One Year,Fiber Optic,6,Electronic Check,Yes
+10391,41,31,90.84,2854.67,Month-to-Month,DSL,7,Electronic Check,Yes
+10392,46,40,103.7,4127.55,Month-to-Month,DSL,4,Bank Transfer,Yes
+10393,66,36,89.75,3406.55,Month-to-Month,Fiber Optic,2,Electronic Check,Yes
+10394,63,24,88.01,2269.54,Month-to-Month,Fiber Optic,4,Credit Card,Yes
+10395,70,6,81.86,444.58,Month-to-Month,DSL,6,Credit Card,Yes
+10396,48,66,95.27,6272.74,Two Year,DSL,1,Electronic Check,No
+10397,52,4,35.86,136.05,One Year,DSL,2,Mailed Check,No
+10398,50,6,108.09,603.37,Month-to-Month,DSL,3,Electronic Check,Yes
+10399,69,51,107.18,5485.68,Month-to-Month,Fiber Optic,2,Electronic Check,Yes
+10400,38,62,22.92,1345.21,Month-to-Month,Fiber Optic,4,Electronic Check,No
+10401,49,57,102.58,5734,One Year,Fiber Optic,0,Electronic Check,No
+10402,40,66,32.89,2233.01,Month-to-Month,Fiber Optic,2,Electronic Check,No
+10403,50,8,53.51,491.03,Two Year,Fiber Optic,3,Bank Transfer,No
+10404,20,26,94.35,2372.67,Month-to-Month,Fiber Optic,1,Mailed Check,Yes
+10405,35,51,36.08,1929.62,Two Year,Fiber Optic,7,Electronic Check,No
+10406,42,45,101.8,4517.84,Two Year,No,5,Bank Transfer,Yes
+10407,59,44,103.21,4566.56,Month-to-Month,Fiber Optic,0,Bank Transfer,No
+10408,48,5,70.75,435.78,Two Year,DSL,7,Bank Transfer,No
+10409,20,70,20.64,1441.44,Month-to-Month,Fiber Optic,1,Credit Card,No
+10410,57,26,48.7,1311.67,Two Year,DSL,2,Electronic Check,No
+10411,63,68,81.69,5503.28,Month-to-Month,Fiber Optic,4,Electronic Check,Yes
+10412,41,19,118.12,2224.63,Two Year,DSL,6,Bank Transfer,Yes
+10413,67,20,83.18,1643.01,Two Year,DSL,4,Bank Transfer,No
+10414,49,12,45.98,477.1,Two Year,No,7,Electronic Check,Yes
+10415,64,47,83.4,3902.12,One Year,DSL,3,Electronic Check,No
+10416,39,1,74,74,Month-to-Month,Fiber Optic,4,Mailed Check,Yes
+10417,40,14,97.98,1322.6,Month-to-Month,DSL,0,Bank Transfer,Yes
+10418,19,64,30.7,1936.31,Month-to-Month,Fiber Optic,4,Mailed Check,No
+10419,44,38,96.1,3626.18,Month-to-Month,Fiber Optic,3,Bank Transfer,Yes
+10420,59,37,74.13,2718.66,One Year,Fiber Optic,5,Electronic Check,No
+10421,19,11,116.3,1273.12,Month-to-Month,DSL,2,Credit Card,No
+10422,43,3,54.19,210.51,Two Year,DSL,6,Bank Transfer,No
+10423,34,33,83.26,2835.03,One Year,DSL,7,Electronic Check,Yes
+10424,57,6,113.2,614.22,Two Year,DSL,2,Credit Card,Yes
+10425,50,50,30.25,1392.18,Month-to-Month,Fiber Optic,4,Bank Transfer,No
+10426,26,10,113.72,1033,Two Year,No,1,Electronic Check,Yes
+10427,60,5,88.79,395.23,Two Year,No,2,Bank Transfer,No
+10428,65,23,26.78,580.75,Month-to-Month,Fiber Optic,5,Credit Card,No
+10429,56,10,50.1,424,One Year,Fiber Optic,4,Mailed Check,No
+10430,46,44,90.82,3866.47,One Year,Fiber Optic,6,Electronic Check,Yes
+10431,59,2,26.74,26.74,Month-to-Month,DSL,3,Electronic Check,Yes
+10432,43,13,78.22,1035,Month-to-Month,No,5,Credit Card,Yes
+10433,52,40,54.59,2243.1,Month-to-Month,Fiber Optic,4,Electronic Check,No
+10434,67,2,82.09,108.44,Month-to-Month,Fiber Optic,5,Bank Transfer,Yes
+10435,42,65,24.57,1555.75,Month-to-Month,DSL,2,Bank Transfer,No
+10436,41,63,107.15,6657.78,Month-to-Month,Fiber Optic,6,Electronic Check,Yes
+10437,30,17,117.35,1991.81,Month-to-Month,Fiber Optic,3,Credit Card,Yes
+10438,24,9,116.89,967.17,Month-to-Month,No,4,Credit Card,Yes
+10439,53,15,94.97,1481.86,Two Year,Fiber Optic,0,Electronic Check,No
+10440,62,24,33.01,613.65,Month-to-Month,Fiber Optic,7,Mailed Check,Yes
+10441,37,38,95.83,3605.58,Two Year,No,3,Bank Transfer,No
+10442,18,35,22.46,816.21,Month-to-Month,DSL,0,Bank Transfer,Yes
+10443,25,49,22.21,1106.67,Month-to-Month,Fiber Optic,5,Bank Transfer,No
+10444,63,69,52.36,3862.84,Month-to-Month,DSL,1,Credit Card,No
+10445,33,62,68.86,4304.3,Month-to-Month,Fiber Optic,3,Mailed Check,Yes
+10446,31,60,97.04,5721.99,Month-to-Month,No,5,Bank Transfer,Yes
+10447,29,50,88.33,4406.95,One Year,DSL,0,Bank Transfer,No
+10448,68,9,64.59,403.69,Month-to-Month,No,2,Mailed Check,Yes
+10449,40,34,47.36,1602.18,One Year,DSL,2,Electronic Check,No
+10450,32,35,119.71,4106.54,One Year,No,1,Bank Transfer,Yes
+10451,45,1,62.62,154.16,Month-to-Month,Fiber Optic,7,Electronic Check,Yes
+10452,51,40,65.14,2550.65,Month-to-Month,Fiber Optic,3,Electronic Check,No
+10453,19,64,36.36,2315.36,One Year,DSL,3,Electronic Check,No
+10454,49,22,99.48,2125,Month-to-Month,No,3,Mailed Check,Yes
+10455,40,60,89.37,5536.09,Month-to-Month,Fiber Optic,7,Mailed Check,Yes
+10456,39,64,42.08,2661,Two Year,DSL,5,Bank Transfer,No
+10457,68,72,28.24,2216.54,Month-to-Month,Fiber Optic,6,Bank Transfer,No
+10458,42,11,88.05,1049.97,One Year,DSL,6,Credit Card,Yes
+10459,39,14,85.45,1244.51,Two Year,No,1,Mailed Check,No
+10460,39,60,47.33,2876.67,Month-to-Month,DSL,3,Credit Card,No
+10461,66,30,115.09,3492.08,Month-to-Month,Fiber Optic,5,Electronic Check,Yes
+10462,69,35,35.11,1036.08,Month-to-Month,Fiber Optic,2,Electronic Check,No
+10463,59,37,63.23,2311.62,Month-to-Month,DSL,0,Bank Transfer,No
+10464,23,5,114.36,656.32,Month-to-Month,DSL,5,Bank Transfer,Yes
+10465,32,26,61.97,1606.33,One Year,DSL,7,Electronic Check,No
+10466,60,62,83.85,5058.18,Month-to-Month,Fiber Optic,6,Electronic Check,Yes
+10467,54,4,59.76,233.8,Month-to-Month,DSL,6,Bank Transfer,Yes
+10468,50,42,47.42,2162.05,Two Year,Fiber Optic,2,Electronic Check,No
+10469,25,18,118.4,2255.89,Two Year,DSL,2,Bank Transfer,Yes
+10470,70,40,60.93,2431,One Year,DSL,7,Mailed Check,Yes
+10471,61,72,109.41,7972.66,Month-to-Month,Fiber Optic,0,Credit Card,Yes
+10472,61,39,43,1640.35,One Year,DSL,2,Electronic Check,No
+10473,22,14,41.31,407.95,Month-to-Month,No,1,Bank Transfer,No
+10474,56,32,23.11,647.07,Month-to-Month,No,0,Bank Transfer,Yes
+10475,21,51,85.17,4499.96,Month-to-Month,Fiber Optic,2,Credit Card,No
+10476,23,38,56.85,2132.9,Two Year,Fiber Optic,4,Mailed Check,No
+10477,62,23,106.44,2423.78,Month-to-Month,No,5,Electronic Check,Yes
+10478,49,63,67.32,4211.18,Month-to-Month,DSL,2,Credit Card,No
+10479,69,15,116.82,1942.71,Month-to-Month,DSL,1,Bank Transfer,Yes
+10480,47,25,38.55,1126.35,Month-to-Month,DSL,3,Mailed Check,No
+10481,64,17,106.86,2038.5,Two Year,Fiber Optic,2,Electronic Check,Yes
+10482,52,66,97.66,6429.66,One Year,DSL,6,Bank Transfer,Yes
+10483,57,53,97.09,5175.33,One Year,Fiber Optic,6,Credit Card,Yes
+10484,69,51,104.48,5176.82,Month-to-Month,No,6,Electronic Check,Yes
+10485,33,39,96.1,3895.59,Month-to-Month,No,3,Electronic Check,Yes
+10486,30,51,82.62,4096.84,Month-to-Month,Fiber Optic,6,Mailed Check,Yes
+10487,67,70,33.12,2340.08,Month-to-Month,DSL,4,Electronic Check,No
+10488,59,6,23.25,29.77,Month-to-Month,Fiber Optic,2,Electronic Check,Yes
+10489,47,67,112.08,7450.47,One Year,Fiber Optic,7,Electronic Check,Yes
+10490,36,7,81.67,487.96,Month-to-Month,DSL,6,Mailed Check,Yes
+10491,34,51,99.65,5021.36,Month-to-Month,DSL,0,Bank Transfer,No
+10492,36,72,68.15,4852.89,Month-to-Month,No,7,Bank Transfer,Yes
+10493,45,42,31.73,1277.83,Month-to-Month,Fiber Optic,3,Electronic Check,No
+10494,43,64,32.52,2164.61,Month-to-Month,Fiber Optic,4,Credit Card,No
+10495,54,15,88.56,1217.91,Two Year,No,0,Credit Card,No
+10496,43,29,63.03,1849.92,Two Year,Fiber Optic,0,Bank Transfer,No
+10497,70,33,40.05,1443.45,Two Year,Fiber Optic,0,Mailed Check,No
+10498,40,27,69.16,1816,Month-to-Month,Fiber Optic,0,Electronic Check,Yes
+10499,26,36,26.42,879.33,Month-to-Month,DSL,7,Bank Transfer,No
+10500,29,29,78.2,2244.75,Month-to-Month,Fiber Optic,7,Electronic Check,Yes
